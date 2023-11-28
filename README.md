@@ -1,2 +1,6 @@
 # Letter-M-operations
-Few operations with letter M made by letter M in terminal: moving, increasing, reducing
+A few operations with letter M made by letter M in the terminal: moving, increasing, reducing
+
+To use this program you need to run the terminal in an external console.
+To move the letter use arrows left, right, up, and down.
+To increase and decrease a letter use '+' or '-'.
