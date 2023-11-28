@@ -1,0 +1,3 @@
+C:/Users/migga/Documents/PJATK/Letter M/cmake-build-debug/CMakeFiles/Letter_M.dir
+C:/Users/migga/Documents/PJATK/Letter M/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migga/Documents/PJATK/Letter M/cmake-build-debug/CMakeFiles/rebuild_cache.dir
